@@ -1,0 +1,24 @@
+{
+  "description": "UNKNOWN",
+  "types": [
+
+  ],
+  "summary": "Report processor that notifies an IRC channel about failed Puppet runs",
+  "dependencies": [
+
+  ],
+  "author": "zack",
+  "version": "0.0.6",
+  "source": "UNKNOWN",
+  "checksums": {
+    "Modulefile": "a846d627e13daf85722aac9409284e04",
+    "LICENSE": "8f7bb094c7232b058c7e9f2e431f389c",
+    "templates/irc.yaml.erb": "523efb12c3a398a3efffa614f400f3eb",
+    "README.md": "37ed55d88b35bf03bddc07125615c2f5",
+    "manifests/init.pp": "1bb74912bedac4a2f2ab46e2e3307662",
+    "lib/puppet/reports/irc.rb": "af8be93474cba9af757f7c26d2e1e619"
+  },
+  "license": "Apache 2.0",
+  "name": "zack-irc",
+  "project_page": "https://github.com/jamtur01/puppet-irc"
+}
